@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2015/11/23/10/57/banner-1058145_1280.jpg" alt="portada" width="100%" height="150">
+  <img src="https://cdn.pixabay.com/photo/2015/11/23/10/56/banner-1058142_1280.jpg" alt="portada" width="100%" height="150">
 </p>
 <h1 align="center">Hola 👋, Soy Francisco Averruz</h1>
 <h3 align="center">Desarrollador Full Stack:<br>Transformando ideas en aplicaciones completas</h3>
